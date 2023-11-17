@@ -262,6 +262,10 @@ img {
     margin: 0 auto;
 }
 
+.gallery-content img {
+	height: 400px;
+}
+
 /*  ================================
         product title area end
     ================================ */
