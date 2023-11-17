@@ -470,7 +470,8 @@ section.tab-section {
 }
 
 .footer-logo img {
-    width: 200px;
+	width: 200px;
+	padding: 13px 0;
 }
 
 .footer-widget h2 {
