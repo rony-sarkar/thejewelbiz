@@ -316,6 +316,7 @@ img {
     font-family: fontawesome;
     left: 0;
     color: #000;
+	top: 6px;
 }
 
 .sidebar-box ul li a {
